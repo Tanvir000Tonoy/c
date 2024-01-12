@@ -9,8 +9,8 @@ Concenpts that i have learnt:
 1. [x] variables
 2. [x] data types
 3. [x] conditional statements
-4. [ ] loops
-5. [ ] memory address and pointer
+4. [x] loops
+5. [x] memory address and pointer
 6. [ ] Structures
 7. [ ] functione
 8. [ ] recursions
