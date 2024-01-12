@@ -6,9 +6,9 @@
 
 Concenpts that i have learnt:
 
-1. [ ] variables
-2. [ ] data types
-3. [ ] conditional statements
+1. [x] variables
+2. [x] data types
+3. [x] conditional statements
 4. [ ] loops
 5. [ ] memory address and pointer
 6. [ ] Structures
