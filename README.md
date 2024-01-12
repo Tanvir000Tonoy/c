@@ -1,2 +1,1 @@
-# c
-c is an important programming language as its called the mother of all programming language. so i want to learn this programming language by my self with the help of youtube and w3schools...
+### Learning C programming
