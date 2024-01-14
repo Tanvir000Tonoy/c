@@ -11,8 +11,8 @@ Concenpts that i have learnt:
 3. [x] conditional statements
 4. [x] loops
 5. [x] memory address and pointer
-6. [ ] Structures
-7. [ ] functione
+6. [x] Structures
+7. [x] functione
 8. [ ] recursions
 9. `array ` , `files` , `and more`.
 
