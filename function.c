@@ -8,3 +8,4 @@ int main()
     int x = add(5, 10);
     printf("%d", x);
 }
+// function done
