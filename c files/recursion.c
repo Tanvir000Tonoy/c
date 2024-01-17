@@ -3,11 +3,10 @@
 #include <stdio.h>
 int fibonacci(int x)
 {
-    for (int i = 0; i <= x; i++)
-    {
-    }
+    return x + fibonacci(x - 1);
 }
 int main()
 {
-    printf(fibonacci(10));
+    int y = fibonacci(12);
+    printf("%d", y);
 }

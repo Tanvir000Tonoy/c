@@ -13,7 +13,7 @@ Concenpts that i have learnt:
 5. [x] memory address and pointer
 6. [x] Structures
 7. [x] functione
-8. [ ] recursions
+8. [x] recursions
 9. `array ` , `files` , `and more`.
 
 ## got basics from [ w3schools ](https://www.w3schools.com/c/index.php)
