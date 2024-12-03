@@ -7,14 +7,14 @@
 Concenpts that i have learnt:
 
 1. [x] variables
-2. [x] data types
-3. [x] conditional statements
-4. [x] loops
-5. [x] memory address and pointer
-6. [x] Structures
-7. [x] functione
-8. [x] recursions
-9. `array ` , `files` , `and more`.
+3. [x] data types
+4. [x] conditional statements
+5. [x] loops
+6. [x] memory address and pointer
+7. [x] Structures
+8. [x] functione
+9. [x] recursions
+10. `array ` , `files` , `and more`.
 
 ## got basics from [ w3schools ](https://www.w3schools.com/c/index.php)
 
